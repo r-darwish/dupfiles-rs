@@ -1,0 +1,9 @@
+[package]
+name = "dupfiles"
+version = "0.1.0"
+authors = ["Roey Darwish Dror <roeyd@infinidat.com>"]
+
+[dependencies]
+walker = "*"
+openssl = "*"
+memmap = "*"
